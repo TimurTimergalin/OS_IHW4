@@ -1,0 +1,173 @@
+Server: Work started
+Smoker 0: Starting
+Server: Message received
+Server: Smoker with resource 0 requested resources
+Smoker 1: Starting
+Server: Message received
+Server: Smoker with resource 1 requested resources
+Smoker 2: Starting
+Server: Message received
+Server: Smoker with resource 2 requested resources
+Producer: Starting working
+Producer: Producing all resources except 0
+Producer: Delivery made
+Server: Message received
+Server: Resources delivered from producer
+Producer: Producing all resources except 0
+Producer: Delivery made
+Server: Message received
+Server: Resources delivered from producer
+Producer: Producing all resources except 0
+Producer: Delivery made
+Server: Message received
+Server: Resources delivered from producer
+Producer: Producing all resources except 0
+Producer: Delivery made
+Server: Message received
+Server: Resources delivered from producer
+Producer: Producing all resources except 0
+Producer: Delivery made
+Server: Message received
+Server: Resources delivered from producer
+Producer: Producing all resources except 0
+Producer: Delivery made
+Server: Message received
+Server: Resources delivered from producer
+Producer: Producing all resources except 1
+Producer: Delivery made
+Server: Message received
+Server: Resources delivered from producer
+Server: Smoker with resource 2 is being served
+Smoker 2: Starting smoking
+Producer: Producing all resources except 2
+Producer: Delivery made
+Server: Message received
+Server: Resources delivered from producer
+Server: Smoker with resource 1 is being served
+Smoker 1: Starting smoking
+Smoker 2: Finishing smoking
+Server: Message received
+Server: Smoker with resource 2 requested resources
+Smoker 1: Finishing smoking
+Server: Message received
+Server: Smoker with resource 1 requested resources
+Producer: Producing all resources except 0
+Producer: Delivery made
+Server: Message received
+Server: Resources delivered from producer
+Producer: Producing all resources except 1
+Producer: Delivery made
+Server: Message received
+Server: Resources delivered from producer
+Server: Smoker with resource 2 is being served
+Smoker 2: Starting smoking
+Producer: Producing all resources except 1
+Producer: Delivery made
+Server: Message received
+Server: Resources delivered from producer
+Smoker 2: Finishing smoking
+Server: Message received
+Server: Smoker with resource 2 requested resources
+Server: Smoker with resource 2 is being served
+Smoker 2: Starting smoking
+Producer: Producing all resources except 1
+Producer: Delivery made
+Server: Message received
+Server: Resources delivered from producer
+Producer: Producing all resources except 1
+Producer: Delivery made
+Server: Message received
+Server: Resources delivered from producer
+Smoker 2: Finishing smoking
+Server: Message received
+Server: Smoker with resource 2 requested resources
+Server: Smoker with resource 2 is being served
+Smoker 2: Starting smoking
+Producer: Producing all resources except 1
+Producer: Delivery made
+Server: Message received
+Server: Resources delivered from producer
+Smoker 2: Finishing smoking
+Server: Message received
+Server: Smoker with resource 2 requested resources
+Server: Smoker with resource 2 is being served
+Smoker 2: Starting smoking
+Producer: Producing all resources except 0
+Producer: Delivery made
+Server: Message received
+Server: Resources delivered from producer
+Producer: Producing all resources except 0
+Producer: Delivery made
+Server: Message received
+Server: Resources delivered from producer
+Smoker 2: Finishing smoking
+Server: Message received
+Server: Smoker with resource 2 requested resources
+Server: Smoker with resource 2 is being served
+Smoker 2: Starting smoking
+Producer: Producing all resources except 0
+Producer: Delivery made
+Server: Message received
+Server: Resources delivered from producer
+Producer: Producing all resources except 0
+Producer: Delivery made
+Server: Message received
+Server: Resources delivered from producer
+Smoker 2: Finishing smoking
+Server: Message received
+Server: Smoker with resource 2 requested resources
+Producer: Producing all resources except 0
+Producer: Delivery made
+Server: Message received
+Server: Resources delivered from producer
+Producer: Producing all resources except 0
+Producer: Delivery made
+Server: Message received
+Server: Resources delivered from producer
+Producer: Producing all resources except 2
+Producer: Delivery made
+Server: Message received
+Server: Resources delivered from producer
+Server: Smoker with resource 1 is being served
+Smoker 1: Starting smoking
+Smoker 1: Finishing smoking
+Server: Message received
+Server: Smoker with resource 1 requested resources
+Producer: Producing all resources except 0
+Producer: Delivery made
+Server: Message received
+Server: Resources delivered from producer
+Producer: Producing all resources except 1
+Producer: Delivery made
+Server: Message received
+Server: Resources delivered from producer
+Server: Smoker with resource 2 is being served
+Smoker 2: Starting smoking
+Producer: Producing all resources except 1
+Producer: Delivery made
+Server: Message received
+Server: Resources delivered from producer
+Smoker 2: Finishing smoking
+Server: Message received
+Server: Smoker with resource 2 requested resources
+Server: Smoker with resource 2 is being served
+Smoker 2: Starting smoking
+Producer: Producing all resources except 2
+Producer: Delivery made
+Server: Message received
+Server: Resources delivered from producer
+Server: Smoker with resource 1 is being served
+Smoker 1: Starting smoking
+Smoker 1: Finishing smoking
+Server: Message received
+Server: Smoker with resource 1 requested resources
+Producer: Producing all resources except 1
+Producer: Delivery made
+Server: Message received
+Server: Resources delivered from producer
+Smoker 2: Finishing smoking
+Server: Message received
+Server: Smoker with resource 2 requested resources
+Server: Smoker with resource 2 is being served
+Smoker 2: Starting smoking
+Server: finish
